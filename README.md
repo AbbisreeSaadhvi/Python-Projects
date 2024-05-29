@@ -33,3 +33,12 @@ Objective: To predict a binary outcome.
 
 **Linear Regression Model:**
 
+Linear Regression is a statistical method used to model the relationship between a dependent variable (also called the target or outcome variable) and one or more independent variables (also known as predictors or features). The goal of linear regression is to find the best-fitting linear equation that can predict the dependent variable based on the independent variables.
+
+_Explanatory Linear Regression Model:_
+Objective: An explanatory model is used to offer an explanation of a past event. Assess the relationship between the outcome variable and a factor(indepedent variable).
+
+_Predictive Linear Regression Model:_
+Objective: A predictive model is used when we want to predict the value of the outcome variable for a future time.
+
+Thus, we note that explanatory models are backward looking (explaining the past) and the predictive models are forward looking (predicting the future).
