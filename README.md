@@ -42,3 +42,14 @@ _Predictive Linear Regression Model:_
 Objective: A predictive model is used when we want to predict the value of the outcome variable for a future time.
 
 Thus, we note that explanatory models are backward looking (explaining the past) and the predictive models are forward looking (predicting the future).
+
+**K-Nearest Neighbors (KNN):**
+
+K-Nearest Neighbors (KNN) is a simple, instance-based learning algorithm that is used for classification and regression tasks. In KNN, the target value of a data point is determined by the majority class (for classification) or the average (for regression) of its k-nearest neighbors in the feature space. 
+
+The key steps are:
+
+1. Choosing the number of neighbors (k).
+2. Calculating the distance between the data points.
+3. Sorting the data points based on distance.
+4. Voting for the majority class or averaging the values.
