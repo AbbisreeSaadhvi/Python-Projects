@@ -22,6 +22,14 @@ ANOVA (Analysis of Variance) is a statistical test used to determine if there ar
 
 **Logistic Regression:**
 
-**Explanatory Linear Regression Model:**
+Logistic Regression is a statistical method used for analyzing datasets in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes). It is widely used to model the probability of a binary response based on one or more predictor variables.
 
-**Predictive Linear Regression Model:**
+_Explanatory Logistic Regression Model:_
+Objective: To identify factors that influence a binary outcome.
+
+_Predictive Logistic Regression Model:_
+Objective: To predict a binary outcome.
+
+
+**Linear Regression Model:**
+
